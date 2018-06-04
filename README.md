@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+## zujianliebiao
+1. [搜索框组件](https://github.com/fyuanfen/Vue-Components/blob/master/src/search.vue)
+2. [标签输入框组件](https://github.com/fyuanfen/Vue-Components/blob/master/src/input-tag.vue)
 ## Build Setup
 
 ``` bash
